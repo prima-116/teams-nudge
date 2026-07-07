@@ -1,0 +1,36 @@
+{
+  "name": "teams-nudge",
+  "version": "0.1.0",
+  "description": "A tiny nudge to keep your Teams status accurate while you work quietly.",
+  "type": "module",
+  "bin": {
+    "teams-nudge": "./bin/teams-nudge.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "config.example.json"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "os": [
+    "darwin"
+  ],
+  "scripts": {
+    "start": "node bin/teams-nudge.js"
+  },
+  "keywords": [
+    "teams",
+    "microsoft-teams",
+    "presence",
+    "status",
+    "idle",
+    "away"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@nut-tree-fork/nut-js": "^4.2.6",
+    "commander": "^12.1.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "checkIntervalSeconds": 15,
+  "idleThresholdSeconds": 240,
+  "quietHours": {
+    "enabled": false,
+    "start": "19:00",
+    "end": "08:00"
+  }
+}
