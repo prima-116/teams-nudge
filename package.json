@@ -1,6 +1,6 @@
 {
   "name": "teams-nudge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tiny macOS CLI that keeps your Teams, Slack, or Discord status accurate by nudging your cursor right before you'd go idle.",
   "type": "module",
   "bin": {
