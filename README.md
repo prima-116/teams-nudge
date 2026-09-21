@@ -11,6 +11,8 @@ nudge and back) to keep your presence accurate.
 It does nothing while you're actually active. It only acts in the narrow
 window right before you'd otherwise go idle.
 
+Works with MacOS, Teams, Slack, Discord, and Zoom.
+
 ## Install
 
 ```bash
