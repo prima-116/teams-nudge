@@ -28,6 +28,8 @@ that sets your status from system idle:
 **Requires macOS.** Idle detection uses `ioreg`, which is macOS-only. Windows
 support is on the roadmap.
 
+Works with MacOS, Teams, Slack, Discord, and Zoom.
+
 ## Install
 
 ```bash
